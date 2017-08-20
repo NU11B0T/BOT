@@ -1,6 +1,6 @@
 from selenium import webdriver
 import time
-number = 5
+number = 5 #Number of times  
 start_time = time.clock()
 url = 'https://______.sarahah.com/'
 mes ='YOUR MESSAGE'
